@@ -1,7 +1,7 @@
 import { Text, View, StyleSheet } from "react-native";
 
-export default function Index() {
-  return (
+export default function Notes() {
+  return(
     <View style={styles.container}>
       <Text>Personal Notes App</Text> 
     </View>

@@ -1,11 +1,11 @@
 import { Text, View, StyleSheet } from "react-native";
 
-export default function Index() {
+export default function Settings() {
   return (
-    <View style={styles.container}>
-      <Text>Personal Notes App</Text> 
-    </View>
-  );
+		<View style={styles.container}>
+			<Text>Personal Notes App</Text> 
+		</View>
+	);
 }
 
 const styles = StyleSheet.create({
